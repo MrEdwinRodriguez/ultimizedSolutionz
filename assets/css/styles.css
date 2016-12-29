@@ -494,6 +494,7 @@ h1.logo img {
 .footer-col {
   padding: 0 30px;
   margin-bottom: 30px;
+  padding-left: 120px;
 }
 .footer-col .business-hours-list li {
   margin-bottom: 10px;
@@ -513,8 +514,8 @@ h1.logo img {
   left: 0;
 }
 .footer-main {
-  padding-bottom: 60px;
-  padding-top: 60px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 .bottombar {
   background: #0d294b;
@@ -1199,6 +1200,7 @@ h1.logo img {
   }
   .footer-col {
     margin-bottom: 30px;
+    /*padding-left: 50px;*/
   }
   .footer-col:last-child {
     margin-bottom: 0;

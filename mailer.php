@@ -23,9 +23,8 @@
             exit;
         }
 
-        // Set the recipient email address.
-        //IMPORTANT TODO: CHANGE THIS TO YOUR EMAIL ADDRESS!!
-        $recipient = "demo@3rdwavemedia.com";
+        // recipient email address.
+        $recipient = "admin@ultimizedsolutionz.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
