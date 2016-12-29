@@ -101,6 +101,14 @@ a.btn-secondary:focus,
   border-color: #ccc;
   font-size: 16px;
 }
+
+
+#logo-image{
+  height: 80px;
+  width: 80px;
+  padding-top: 0px;
+}
+
 .form-control::-webkit-input-placeholder {
   /* WebKit browsers */
   color: #ccc;
@@ -339,8 +347,8 @@ textarea {
   color: #fff;
 }
 .branding {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  /*padding-bottom: 30px;*/
 }
 h1.logo {
   margin: 0;
@@ -359,6 +367,7 @@ h1.logo img {
 }
 .header-info-list .info-item:last-child {
   margin-right: 0;
+  margin-top: 20px;
 }
 .header-info-list .info-item a {
   color: #343E49;
@@ -1161,7 +1170,7 @@ h1.logo img {
   h1.logo {
     float: none !important;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
   }
   h1.logo img {
     margin: 0 auto;
@@ -1171,6 +1180,7 @@ h1.logo img {
     float: none !important;
     text-align: left;
     display: inline-block;
+
   }
   .header-info-list .custom-icon {
     font-size: 26px;
@@ -1180,6 +1190,8 @@ h1.logo img {
     margin-bottom: 15px;
     margin-right: 0;
     padding-left: 34px;
+    margin-top: 0px;
+
   }
   .contact-form {
     padding: 0px;
