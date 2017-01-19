@@ -818,14 +818,14 @@ h1.logo img {
   height: 360px;
 }
 .projects-section .img-holder-1 {
-  background: url('../images/projects/latest/latest-1.jpg') no-repeat center center;
+  background: url('../images/erp.jpeg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .projects-section .img-holder-2 {
-  background: url('../images/projects/latest/latest-2.jpg') no-repeat center center;
+  background: url('../images/hadoop.jpeg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
