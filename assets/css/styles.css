@@ -825,6 +825,15 @@ h1.logo img {
   top: 0;
   left: 0;
 }
+
+.partners{
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+
+
+}
+
 .projects-section .img-holder {
   position: absolute;
   width: 100%;
