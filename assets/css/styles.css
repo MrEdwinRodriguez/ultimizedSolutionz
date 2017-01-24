@@ -831,7 +831,13 @@ h1.logo img {
     padding: 10px;
     margin: auto;
 
+}
 
+#tagline{
+  text-align: center;
+  font: #fff;
+  margin: auto;
+  padding-bottom: 20px;
 }
 
 .projects-section .img-holder {
