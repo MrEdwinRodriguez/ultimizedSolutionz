@@ -67,6 +67,7 @@ a.btn-cta,
 a.btn-primary,
 .btn-primary {
   background: #2f7ddb;
+  font-size: 22px;
   border: none;
   color: #fff;
 }
@@ -670,7 +671,8 @@ h1.logo img {
   font-size: 18px;
 }
 .reasons .item-desc {
-  color: rgba(0, 0, 0, 0.5);
+  /*color: rgba(0, 0, 0, 0.5);*/
+  color: #fff;
   font-size: 14px;
 }
 .badges-list {
@@ -769,7 +771,8 @@ h1.logo img {
 }
 /* ======= Projects Section ======= */
 .projects-section {
-  background: #f5f5f5;
+  background: #fff;
+  padding-bottom: 15px;
 }
 .projects-section .sub-title {
   font-size: 20px;
@@ -827,7 +830,8 @@ h1.logo img {
 }
 
 .partners{
-    width: 200px;
+    width: 135px;
+    height: 120px;
     padding: 10px;
     margin: auto;
 
@@ -1360,15 +1364,15 @@ body {
 .config-panel #color-options li.theme-3 a {
   background-color: #4E7EAC;
 }
-.config-panel #color-options li.theme-4 a {
+/*.config-panel #color-options li.theme-4 a {
   background-color: #48B7B8;
-}
-.config-panel #color-options li.theme-5 a {
+}*/
+/*.config-panel #color-options li.theme-5 a {
   background-color: #A06081;
-}
-.config-panel #color-options li.theme-6 a {
+}*/
+/*.config-panel #color-options li.theme-6 a {
   background-color: #8A7247;
-}
+}*/
 .config-panel .close {
   position: absolute;
   right: 5px;
